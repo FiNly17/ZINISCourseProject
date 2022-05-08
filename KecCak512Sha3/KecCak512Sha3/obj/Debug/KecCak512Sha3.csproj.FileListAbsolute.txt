@@ -1,0 +1,8 @@
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\bin\Debug\KecCak512Sha3.exe.config
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\bin\Debug\KecCak512Sha3.exe
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\bin\Debug\KecCak512Sha3.pdb
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\obj\Debug\KecCak512Sha3.csproj.AssemblyReference.cache
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\obj\Debug\KecCak512Sha3.csproj.SuggestedBindingRedirects.cache
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\obj\Debug\KecCak512Sha3.csproj.CoreCompileInputs.cache
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\obj\Debug\KecCak512Sha3.exe
+C:\Work\Daniil_Finski_Individual_Mentorship\KecCak512Sha3\KecCak512Sha3\obj\Debug\KecCak512Sha3.pdb

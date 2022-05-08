@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "233e8d4b-4a4e-4e6e-9f73-4ae71bed8542": {
+      "ProjectGuid": "233e8d4b-4a4e-4e6e-9f73-4ae71bed8542",
+      "DisplayName": "KecCak512Sha3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
